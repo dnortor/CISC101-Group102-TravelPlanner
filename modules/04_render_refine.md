@@ -2,7 +2,7 @@
 
 ### **Module 4 — Render & Refine**
 
-Show results clearly and conversationally:
+Show results clearly and conversationally
 
 - **Trip summary** – one friendly paragraph.
 
