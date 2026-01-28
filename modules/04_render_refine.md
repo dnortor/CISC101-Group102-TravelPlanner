@@ -6,7 +6,7 @@ Show results clearly and conversationally
 
 - **Trip summary** – one friendly paragraph.
 
-- **Daily plan** – a Markdown table:
+- **Daily plan** – a Markdown table
   
   | Time of Day | Plan |
   | ----------- | ---- |
