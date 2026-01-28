@@ -2,7 +2,7 @@
 
 ## Presentation Rule
 
-The user only sees:
+The user only sees
 
 - **Trip summary**
 - **Daily plan**
